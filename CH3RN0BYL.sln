@@ -6,7 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH3RN0BYL", "CH3RN0BYL\CH3RN0BYL.csproj", "{895E15D7-751C-4242-80C4-898FE5B849CF}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+                             GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
